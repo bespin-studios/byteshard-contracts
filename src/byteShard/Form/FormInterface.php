@@ -6,6 +6,8 @@
 
 namespace byteShard\Form;
 
+use byteShard\Internal\ClientData\ProcessedClientDataInterface;
+
 interface FormInterface
 {
     /**
@@ -13,4 +15,7 @@ interface FormInterface
      * @return string
      */
     public static function getObjectProperties(array $properties): string;
+
+    public function getProcessedClientData(string $control, string $value): ProcessedClientDataInterface;
+
 }
