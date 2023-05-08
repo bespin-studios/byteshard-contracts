@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f5b82a9ef22c2b1d79278d4a1451c940",
+    "content-hash": "320fc9054fd80b23302ab9a3c1acb55e",
     "packages": [
         {
             "name": "byteshard/enum",
