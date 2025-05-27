@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bespin-studios/byteshard-contracts/compare/v1.0.1...v1.0.2) (2025-05-27)
+
+
+### Bug Fixes
+
+* update pipeline and dependencies ([a9cbc67](https://github.com/bespin-studios/byteshard-contracts/commit/a9cbc675f7a28e451abcbc42de955ba0a57bb21f))
+
 ## [1.0.1](https://github.com/byteshard/contracts/compare/v1.0.0...v1.0.1) (2023-10-09)
 
 
