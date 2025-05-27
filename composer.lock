@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "320fc9054fd80b23302ab9a3c1acb55e",
+    "content-hash": "6fc1c7bcf6d269c23de610013c65bdec",
     "packages": [
         {
             "name": "byteshard/enum",
-            "version": "v1.0.2",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/byteshard/enum.git",
-                "reference": "e39501eee2409cd2ef0b4245993eeb454a0192c6"
+                "url": "https://github.com/bespin-studios/byteshard-enum.git",
+                "reference": "baf981bf48629f11121ed79c5ca4149b7c6628da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/byteshard/enum/zipball/e39501eee2409cd2ef0b4245993eeb454a0192c6",
-                "reference": "e39501eee2409cd2ef0b4245993eeb454a0192c6",
+                "url": "https://api.github.com/repos/bespin-studios/byteshard-enum/zipball/baf981bf48629f11121ed79c5ca4149b7c6628da",
+                "reference": "baf981bf48629f11121ed79c5ca4149b7c6628da",
                 "shasum": ""
             },
             "require": {
@@ -43,29 +43,29 @@
             ],
             "description": "Global enums for the byteShard framework",
             "support": {
-                "issues": "https://github.com/byteshard/enum/issues",
-                "source": "https://github.com/byteshard/enum/tree/v1.0.2"
+                "issues": "https://github.com/bespin-studios/byteshard-enum/issues",
+                "source": "https://github.com/bespin-studios/byteshard-enum/tree/v1.1.0"
             },
-            "time": "2023-10-09T14:26:50+00:00"
+            "time": "2023-10-10T08:06:15+00:00"
         }
     ],
     "packages-dev": [
         {
             "name": "phpstan/phpstan",
-            "version": "1.10.38",
+            "version": "2.1.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "5302bb402c57f00fb3c2c015bac86e0827e4b691"
+                "reference": "402d11c1aa40ae2e1c3a512e6a4edb957527b20b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/5302bb402c57f00fb3c2c015bac86e0827e4b691",
-                "reference": "5302bb402c57f00fb3c2c015bac86e0827e4b691",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/402d11c1aa40ae2e1c3a512e6a4edb957527b20b",
+                "reference": "402d11c1aa40ae2e1c3a512e6a4edb957527b20b",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2|^8.0"
+                "php": "^7.4|^8.0"
             },
             "conflict": {
                 "phpstan/phpstan-shim": "*"
@@ -104,23 +104,19 @@
                 {
                     "url": "https://github.com/phpstan",
                     "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/phpstan/phpstan",
-                    "type": "tidelift"
                 }
             ],
-            "time": "2023-10-06T14:19:14+00:00"
+            "time": "2025-05-14T11:16:08+00:00"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.1"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
