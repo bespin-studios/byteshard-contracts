@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/bespin-studios/byteshard-contracts/compare/v1.0.2...v1.0.3) (2025-07-10)
+
+
+### Bug Fixes
+
+* change toolbar interface to be used in core ([4cd9f17](https://github.com/bespin-studios/byteshard-contracts/commit/4cd9f17b19e46efdbc150913c78c50d0d00373a0))
+
 ## [1.0.2](https://github.com/bespin-studios/byteshard-contracts/compare/v1.0.1...v1.0.2) (2025-05-27)
 
 
