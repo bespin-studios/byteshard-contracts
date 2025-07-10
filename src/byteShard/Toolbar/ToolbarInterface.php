@@ -3,6 +3,8 @@
 namespace byteShard\Toolbar;
 
 
+use byteShard\Internal\Struct\UiComponentInterface;
+
 interface ToolbarInterface
 {
     public function addToolbarObject(ToolbarObjectInterface ...$toolbarObjects): self;
@@ -12,4 +14,5 @@ interface ToolbarInterface
      */
     public function getContents(): array;
 
+    public function getComponent(): ?UiComponentInterface;
 }
