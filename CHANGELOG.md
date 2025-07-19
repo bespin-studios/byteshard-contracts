@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bespin-studios/byteshard-contracts/compare/v1.0.3...v1.1.0) (2025-07-19)
+
+
+### Features
+
+* new interface for form and form settings ([fd56b2c](https://github.com/bespin-studios/byteshard-contracts/commit/fd56b2ce8bd993250bca19025cc890b5a192b676))
+
 ## [1.0.3](https://github.com/bespin-studios/byteshard-contracts/compare/v1.0.2...v1.0.3) (2025-07-10)
 
 
