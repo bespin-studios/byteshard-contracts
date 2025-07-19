@@ -7,15 +7,18 @@
 namespace byteShard\Form;
 
 use byteShard\Internal\ClientData\ProcessedClientDataInterface;
+use stdClass;
 
 interface FormInterface
 {
     /**
-     * @param array<\stdClass> $properties
+     * @param array<stdClass> $properties
      * @return string
      */
     public static function getObjectProperties(array $properties): string;
 
     public function getProcessedClientData(string $control, string $value): ProcessedClientDataInterface;
+
+    public function addFormSettings(FormSettingsInterface $formSettings): self;
 
 }
