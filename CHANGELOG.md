@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.0...v1.2.1) (2025-09-25)
+
+
+### Bug Fixes
+
+* forgot function for ribbonInterface ([cb6a99c](https://github.com/bespin-studios/byteshard-contracts/commit/cb6a99ccf13b9e16adbb8308b363a743d0fabb86))
+
 # [1.2.0](https://github.com/bespin-studios/byteshard-contracts/compare/v1.1.0...v1.2.0) (2025-09-25)
 
 
