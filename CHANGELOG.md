@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.2...v1.2.3) (2025-09-25)
+
+
+### Bug Fixes
+
+* remove getContents() from ribbon ([c7a5ffd](https://github.com/bespin-studios/byteshard-contracts/commit/c7a5ffd560b32782c5ac731b372a6c4fad600c28))
+
 ## [1.2.2](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.1...v1.2.2) (2025-09-25)
 
 
