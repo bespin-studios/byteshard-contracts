@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.1...v1.2.2) (2025-09-25)
+
+
+### Bug Fixes
+
+* add setAccessType to ribbon and toolbar ([11f8a56](https://github.com/bespin-studios/byteshard-contracts/commit/11f8a56ec621be1974a0d9a14f9010e08dd5bbff))
+
 ## [1.2.1](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.0...v1.2.1) (2025-09-25)
 
 
