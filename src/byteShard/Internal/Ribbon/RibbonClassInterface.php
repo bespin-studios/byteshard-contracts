@@ -2,6 +2,7 @@
 
 namespace byteShard\Internal\Ribbon;
 
+use byteShard\Enum\Access;
 use byteShard\Internal\Struct\UiComponentInterface;
 
 interface RibbonClassInterface
@@ -14,4 +15,6 @@ interface RibbonClassInterface
     public function getContents(): array;
 
     public function getComponent(): ?UiComponentInterface;
+
+    public function setAccessType(int|Access $accessType): self;
 }

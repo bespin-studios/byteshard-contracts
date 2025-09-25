@@ -3,6 +3,7 @@
 namespace byteShard\Toolbar;
 
 
+use byteShard\Enum\Access;
 use byteShard\Internal\Struct\UiComponentInterface;
 
 interface ToolbarInterface
@@ -15,4 +16,6 @@ interface ToolbarInterface
     public function getContents(): array;
 
     public function getComponent(): ?UiComponentInterface;
+
+    public function setAccessType(int|Access $accessType): self;
 }
