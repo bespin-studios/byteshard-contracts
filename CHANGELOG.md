@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/bespin-studios/byteshard-contracts/compare/v1.1.0...v1.2.0) (2025-09-25)
+
+
+### Features
+
+* new interfaces for ribbon ([75b5f8d](https://github.com/bespin-studios/byteshard-contracts/commit/75b5f8db68bc7d2324e2b913f653e0554fcee7e6))
+
 # [1.1.0](https://github.com/bespin-studios/byteshard-contracts/compare/v1.0.3...v1.1.0) (2025-07-19)
 
 
