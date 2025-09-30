@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "byteshard/enum",
-            "version": "v1.3.0",
+            "version": "v1.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bespin-studios/byteshard-enum.git",
-                "reference": "e330205c2c7a876fb797c1ee068fcbae040313e2"
+                "reference": "1ea002902bcbc270cfa2e7fb5b34eb47bc14aeb2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bespin-studios/byteshard-enum/zipball/e330205c2c7a876fb797c1ee068fcbae040313e2",
-                "reference": "e330205c2c7a876fb797c1ee068fcbae040313e2",
+                "url": "https://api.github.com/repos/bespin-studios/byteshard-enum/zipball/1ea002902bcbc270cfa2e7fb5b34eb47bc14aeb2",
+                "reference": "1ea002902bcbc270cfa2e7fb5b34eb47bc14aeb2",
                 "shasum": ""
             },
             "require": {
@@ -44,24 +44,24 @@
             "description": "Global enums for the byteShard framework",
             "support": {
                 "issues": "https://github.com/bespin-studios/byteshard-enum/issues",
-                "source": "https://github.com/bespin-studios/byteshard-enum/tree/v1.3.0"
+                "source": "https://github.com/bespin-studios/byteshard-enum/tree/v1.8.0"
             },
-            "time": "2025-07-09T09:51:47+00:00"
+            "time": "2025-09-30T07:49:42+00:00"
         }
     ],
     "packages-dev": [
         {
             "name": "phpstan/phpstan",
-            "version": "2.1.17",
+            "version": "2.1.29",
             "source": {
                 "type": "git",
-                "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "89b5ef665716fa2a52ecd2633f21007a6a349053"
+                "url": "https://github.com/phpstan/phpstan-phar-composer-source.git",
+                "reference": "git"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/89b5ef665716fa2a52ecd2633f21007a6a349053",
-                "reference": "89b5ef665716fa2a52ecd2633f21007a6a349053",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/d618573eed4a1b6b75e37b2e0b65ac65c885d88e",
+                "reference": "d618573eed4a1b6b75e37b2e0b65ac65c885d88e",
                 "shasum": ""
             },
             "require": {
@@ -106,7 +106,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-05-21T20:55:28+00:00"
+            "time": "2025-09-25T06:58:18+00:00"
         }
     ],
     "aliases": [],

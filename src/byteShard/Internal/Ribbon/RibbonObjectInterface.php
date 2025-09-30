@@ -3,6 +3,7 @@
 namespace byteShard\Internal\Ribbon;
 
 use byteShard\Enum\Access;
+use byteShard\Enum\Event;
 
 interface RibbonObjectInterface
 {
@@ -23,4 +24,11 @@ interface RibbonObjectInterface
      * @return array<RibbonObjectInterface>
      */
     public function getNestedItems(): array;
+
+    public function generateEncryptedId(string $nonce): void;
+
+    /**
+     * @return array<Event>
+     */
+    public function getEvents(): array;
 }
