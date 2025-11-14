@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.5...v1.2.6) (2025-11-14)
+
+
+### Bug Fixes
+
+* update RibbonObjectInterface ([73a7ba3](https://github.com/bespin-studios/byteshard-contracts/commit/73a7ba3ff3c280da61d969d2aef56b25b8e539e5))
+
 ## [1.2.5](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.4...v1.2.5) (2025-09-30)
 
 
