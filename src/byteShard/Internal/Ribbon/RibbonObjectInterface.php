@@ -4,6 +4,7 @@ namespace byteShard\Internal\Ribbon;
 
 use byteShard\Enum\Access;
 use byteShard\Enum\Event;
+use SimpleXMLElement;
 
 interface RibbonObjectInterface
 {
@@ -31,4 +32,6 @@ interface RibbonObjectInterface
      * @return array<Event>
      */
     public function getEvents(): array;
+
+    public function addObjectToXml(?SimpleXMLElement $parent): void;
 }
