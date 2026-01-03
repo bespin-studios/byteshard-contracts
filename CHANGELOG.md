@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.6...v1.3.0) (2026-01-03)
+
+
+### Features
+
+* refactor ToolbarInterface and create new ToolbarClassInterface ([9985d46](https://github.com/bespin-studios/byteshard-contracts/commit/9985d46a8aa5b8506ac218ef476d2f07162a0945))
+
 ## [1.2.6](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.5...v1.2.6) (2025-11-14)
 
 
