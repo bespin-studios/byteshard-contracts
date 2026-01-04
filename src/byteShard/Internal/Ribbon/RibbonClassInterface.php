@@ -7,9 +7,9 @@ use byteShard\Internal\Struct\UiComponentInterface;
 
 interface RibbonClassInterface
 {
-    public function addRibbonObject(RibbonObjectInterface ...$ribbonObjects): self;
+    public function addRibbonObject(RibbonObjectInterface ...$ribbonObjects): static;
 
     public function getComponent(): ?UiComponentInterface;
 
-    public function setAccessType(int|Access $accessType): self;
+    public function setAccessType(int|Access $accessType): static;
 }

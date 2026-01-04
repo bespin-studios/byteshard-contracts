@@ -8,7 +8,7 @@ use byteShard\Toolbar\ToolbarObjectInterface;
 
 interface ToolbarClassInterface
 {
-    public function addToolbarObject(ToolbarObjectInterface ...$toolbarObjects): self;
+    public function addToolbarObject(ToolbarObjectInterface ...$toolbarObjects): static;
 
     /**
      * @return array<string, string | array<mixed>>
@@ -17,5 +17,5 @@ interface ToolbarClassInterface
 
     public function getComponent(): ?UiComponentInterface;
 
-    public function setAccessType(int|Access $accessType): self;
+    public function setAccessType(int|Access $accessType): static;
 }
