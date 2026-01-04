@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/bespin-studios/byteshard-contracts/compare/v1.3.0...v1.3.1) (2026-01-04)
+
+
+### Bug Fixes
+
+* change return types from self to static ([32e69ca](https://github.com/bespin-studios/byteshard-contracts/commit/32e69cae69c568df53be9c29dbd5239680cb661c))
+
 # [1.3.0](https://github.com/bespin-studios/byteshard-contracts/compare/v1.2.6...v1.3.0) (2026-01-03)
 
 
