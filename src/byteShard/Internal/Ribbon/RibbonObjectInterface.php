@@ -8,7 +8,7 @@ use SimpleXMLElement;
 
 interface RibbonObjectInterface
 {
-    public function setParentAccessType(int|Access $accessType): self;
+    public function setParentAccessType(int|Access $accessType): static;
 
     public function getAccessType(): int|Access;
 

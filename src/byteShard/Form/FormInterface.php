@@ -19,6 +19,6 @@ interface FormInterface
 
     public function getProcessedClientData(string $control, string $value): ProcessedClientDataInterface;
 
-    public function addFormSettings(FormSettingsInterface $formSettings): self;
+    public function addFormSettings(FormSettingsInterface $formSettings): static;
 
 }

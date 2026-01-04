@@ -6,7 +6,7 @@ use byteShard\Enum\Access;
 
 interface ToolbarObjectInterface
 {
-    public function setParentAccessType(int|Access $accessType): self;
+    public function setParentAccessType(int|Access $accessType): static;
 
     public function setBaseLocale(string $baseLocale): void;
 
