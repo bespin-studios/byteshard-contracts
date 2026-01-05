@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/bespin-studios/byteshard-contracts/compare/v1.3.1...v1.3.2) (2026-01-05)
+
+
+### Bug Fixes
+
+* update ToolbarContainer interface to reflect all needed methods. Can also be used as RibbonContainer ([6473c46](https://github.com/bespin-studios/byteshard-contracts/commit/6473c4676e6c022ed568f984ae601f721c912b4f))
+
 ## [1.3.1](https://github.com/bespin-studios/byteshard-contracts/compare/v1.3.0...v1.3.1) (2026-01-04)
 
 
