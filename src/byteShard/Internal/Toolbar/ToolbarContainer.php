@@ -16,4 +16,6 @@ namespace byteShard\Internal\Toolbar;
 interface ToolbarContainer
 {
     public function getAccessType(): int;
+    public function getNonce(): string;
+    public function getScopeLocaleTokenBasedOnNamespace(string $type = ''): string;
 }
