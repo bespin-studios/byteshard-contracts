@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/bespin-studios/byteshard-contracts/compare/v1.3.2...v1.3.3) (2026-01-16)
+
+
+### Bug Fixes
+
+* remove method from GridInterface to support new action based data saving ([e7befdb](https://github.com/bespin-studios/byteshard-contracts/commit/e7befdbf620841f07ea9ea80fb1c5e95bf9ea02c))
+
 ## [1.3.2](https://github.com/bespin-studios/byteshard-contracts/compare/v1.3.1...v1.3.2) (2026-01-05)
 
 
